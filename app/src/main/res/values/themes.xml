@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.HalliSanthe" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F1F8E9</item>
+        <item name="android:navigationBarColor">#F9FBF9</item>
+    </style>
+</resources>
